@@ -1,4 +1,4 @@
-# Avaliacao de Risco de Crédito
+# Avaliação de Risco de Crédito
 
 Este projeto visa construir um modelo preditivo que calcule a previão de conceder ou não crédito a uma
 pessoa. Os dados foram extraídos do kaggle de um Banco Alemão e contêm informações sobre 20 variáveis e
